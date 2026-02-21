@@ -1,4 +1,4 @@
-                                 Hi 👋, P Harshith
+                                # Hi 👋, P Harshith
 🌱 I’m currently learning Backend AI and Agentic AI<br><br>👨‍💻 I’m currently working on Growth Intern at Mentiby<br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>📫 Reach out to me at mr.harshith777@gmail.com
 
 
