@@ -5,10 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=harshithnayak07&label=Profile%20views&color=0e75b6&style=flat" alt="harshithnayak07" />
 </p>
 
-🌱 I’m currently learning AI Application Development<br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Backend and Artificial Intelligence<br><br>📫 Reach out to me at mr.harshith777@gmail.com
+🌱 I’m currently learning **AI Application Development**<br><br>
+
+📑 Check out my resume here - [**My Resume**](https://drive.google.com/file/d/1ahb_Cexvs5SQ_aue2NdG57TRQ_i3Dmn2/view?usp=drive_link)<br><br>
+
+💻 All of my projects are available on [**GitHub**](https://github.com/harshithnayak07)<br><br>
+
+💬 Ask me about **Backend and Artificial Intelligence**<br><br>
+
+📫 Reach out to me at mr.harshith777@gmail.com
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=harshithnayak07&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=harshithnayak07&theme=default_repocard&hide_border=false)<br/>
 
 
