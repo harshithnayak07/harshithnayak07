@@ -9,6 +9,8 @@
 
 📑 Check out my resume here - [**My Resume**](https://drive.google.com/file/d/1ahb_Cexvs5SQ_aue2NdG57TRQ_i3Dmn2/view?usp=drive_link)<br><br>
 
+👨‍🎓 Check out my resume here - [**My Portfolio**](https://harshithnayak07.github.io/Portfolio/)<br><br>
+
 💻 All of my projects are available on [**GitHub**](https://github.com/harshithnayak07)<br><br>
 
 💬 Ask me about **Backend and Artificial Intelligence**<br><br>
